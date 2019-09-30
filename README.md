@@ -4,7 +4,7 @@ Flutter mock UI.
 
 Using this image as inspiration
 ![](https://i.pinimg.com/originals/a0/19/8d/a0198d7de0b9d4cc56ab8744b13f6aa6.png)
-![](Simulator Screen Shot - iPhone 11 Pro Max - 2019-09-30 at 14.19.59.png)
+![](screenshot.png)
 
 ## Getting Started
 
