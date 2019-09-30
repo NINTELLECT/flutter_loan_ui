@@ -4,7 +4,7 @@ Flutter mock UI.
 
 Using this image as inspiration
 ![](https://i.pinimg.com/originals/a0/19/8d/a0198d7de0b9d4cc56ab8744b13f6aa6.png)
-![](screenshot.png)
+![](screenshots/sreenshot.png)
 
 ## Getting Started
 
